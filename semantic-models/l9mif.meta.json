@@ -1,0 +1,20 @@
+{
+  "iri": "l9mif",
+  "projectIri": "l9mif",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "Default local model"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-03-19T17:47:41.183Z",
+    "modificationDate": "2026-03-19T17:47:56.372Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-03-19T17:47:57.315Z",
+  "_exportedBy": "http://localhost:3100"
+}

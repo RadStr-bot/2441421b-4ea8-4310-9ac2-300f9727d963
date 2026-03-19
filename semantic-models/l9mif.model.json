@@ -1,0 +1,59 @@
+{
+  "type": "http://dataspecer.com/resources/local/semantic-model",
+  "modelId": "l9mif",
+  "modelAlias": "Default local model",
+  "baseIri": "",
+  "entities": {
+    "ejw0cfrbzyommxrj7v9": {
+      "iri": "cloudyResearch",
+      "name": {
+        "en": "Cloudy Research"
+      },
+      "description": {},
+      "externalDocumentationUrl": null,
+      "id": "ejw0cfrbzyommxrj7v9",
+      "type": [
+        "class"
+      ]
+    },
+    "gtliihui6lmmxrj9xd": {
+      "iri": "wackyLot",
+      "name": {
+        "en": "Wacky Lot"
+      },
+      "description": {},
+      "externalDocumentationUrl": null,
+      "id": "gtliihui6lmmxrj9xd",
+      "type": [
+        "class"
+      ]
+    },
+    "2x8ilqqe9u5mmxrjc7u": {
+      "ends": [
+        {
+          "iri": null,
+          "name": {},
+          "description": {},
+          "concept": "gtliihui6lmmxrj9xd",
+          "externalDocumentationUrl": null
+        },
+        {
+          "name": {
+            "en": "Foolish Study"
+          },
+          "description": {},
+          "concept": "ejw0cfrbzyommxrj7v9",
+          "iri": "foolishStudy",
+          "externalDocumentationUrl": null
+        }
+      ],
+      "id": "2x8ilqqe9u5mmxrjc7u",
+      "type": [
+        "relationship"
+      ],
+      "iri": null,
+      "name": {},
+      "description": {}
+    }
+  }
+}
